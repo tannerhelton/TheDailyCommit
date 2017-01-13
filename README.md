@@ -1,2 +1,1 @@
-# TheDailyCommit
-Test
+# The Daily Commit
